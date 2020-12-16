@@ -1,0 +1,1 @@
+It capitalizes text. That's about it. 
